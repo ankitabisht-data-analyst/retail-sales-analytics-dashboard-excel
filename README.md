@@ -35,7 +35,6 @@ Retail sales managers need to track what's selling, who's buying, where revenue 
 
 ## 📈 Dashboard Preview
 ![Sales Dashboard](./images/sales_dashboard.png)
-
 ## 🔍 Key Insights (from the actual 9,994-row dataset)
 - **Total Sales: $2.30M** over 4 years with **$286K in total profit** — an overall margin of **12.47%**, meaning roughly 12 cents of profit for every dollar of revenue.
 - **Revenue grew 51% from 2014 to 2017** ($484K → $733K), while profit grew **89%** ($49.5K → $93.4K) — profit is growing nearly twice as fast as revenue, indicating improving operational efficiency over time.
