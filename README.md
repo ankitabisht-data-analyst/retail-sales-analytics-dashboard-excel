@@ -27,11 +27,13 @@ Retail sales managers need to track what's selling, who's buying, where revenue 
 | States covered | 49 US states |
 
 ## 🛠️ Tools & Approach
+0. **ETL-DATA TRANSFORM** – Transform and Data cleaning using Power Query and load data into the data model(ETL PROCESS).
 1. **Excel Data Model** – Loaded `sales_data.csv` into Excel and structured it for pivot analysis.
 2. **Pivot Tables** – Built pivot tables for sales by sub-category, profit by category over time, sales by state, customer count by year, top 5 customers by profit, and monthly sales trend.
 3. **Pivot Charts** – Created 6 charts (bar, line, map, pie, area) from the pivot tables.
 4. **Slicers** – Added Category (Furniture / Office Supplies / Technology) and Year (2014–2017) slicers connected to all charts for interactive cross-filtering.
-5. **Dashboard Sheet** – Arranged all 6 charts professionally on a single dashboard sheet.
+5. **Custom Calendar** –  For a better understanding of the footsteps of people each day.
+6. **Dashboard Sheet** – Arranged all 6 charts professionally on a single dashboard sheet.
 
 ## 📈 Dashboard Preview
 ![Sales Dashboard](./images/sales_dashboard.png)
