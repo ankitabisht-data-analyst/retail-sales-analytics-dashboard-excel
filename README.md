@@ -56,7 +56,7 @@ git clone https://github.com/ankitabisht-data-analyst/sales-dashboard-excel.git
 4. To explore the underlying pivot tables, check the individual sheets in the workbook.
 
 ## 📈 Skills Demonstrated
-`Excel` `Pivot Tables` `Pivot Charts` `Slicers` `Dashboard Design` `Data Cleaning` `Sales Analytics` `KPI Reporting` `Data Visualization` `Profitability Analysis`
+`Excel` `Pivot Tables` `Power Pivot` `ETL` `data cleaning` `Pivot Charts` `Slicers` `Dashboard Design` `Data Cleaning` `Sales Analytics` `KPI Reporting` `Data Visualization` `Profitability Analysis`
 
 ## 📬 Contact
 **Ankita Bisht** — Data Analyst
